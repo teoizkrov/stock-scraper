@@ -1,0 +1,101 @@
+exchange,symbol,company,volume,price,change
+Nasdaq,AMD,Advanced Micro Devices 35707430,28.18,0.50
+Nasdaq,QCOM,Qualcomm 32418988,81.97,2.08
+Nasdaq,SIRI,Sirius XM Holdings 25453528,6.12,0.08
+Nasdaq,KEYW,KEYW Holding 23238564,11.17,3.31
+Nasdaq,ZNGA,Zynga 17204370,5.52,0.08
+Nasdaq,AAPL,Apple 17059349,204.53,0.67
+Nasdaq,MU,Micron Technology 16725143,43.40,0.00
+Nasdaq,QQQ,Invesco QQQ Trust Series I 14082957,187.92,0.53
+Nasdaq,MSFT,Microsoft 13796315,123.76,0.39
+Nasdaq,FB,Facebook Cl A 12699903,181.44,3.16
+Nasdaq,TSLA,Tesla 11876506,262.75,-10.51
+Nasdaq,NFLX,Netflix 11709686,377.34,16.99
+Nasdaq,CSCO,Cisco Systems 11628791,56.34,-0.06
+Nasdaq,GILD,Gilead Sciences 11097036,61.87,-1.08
+Nasdaq,INTC,Intel 11063759,58.82,0.33
+Nasdaq,JD,JD.com ADR 10912833,29.65,-0.36
+Nasdaq,MAT,Mattel 10468531,11.77,-0.72
+Nasdaq,TVIX,VelocityShares Daily 2x VIX Short Term ETN 10387980,19.32,-0.40
+Nasdaq,SQQQ,ProShares UltraPro Short QQQ 10355187,8.92,-0.08
+Nasdaq,CZR,Caesars Entertainment 10349505,9.47,-0.09
+Nasdaq,KHC,Kraft Heinz 10324492,32.90,-0.06
+Nasdaq,NVAX,Novavax 9988070,0.53,0.01
+Nasdaq,ZM,Zoom Video Communications 9938270,65.70,3.70
+Nasdaq,UXIN,Uxin ADR 9704039,3.49,0.12
+Nasdaq,TQQQ,ProShares UltraPro QQQ 9305703,64.50,0.54
+Nasdaq,MRVL,Marvell Technology Group 9071480,24.84,-0.01
+Nasdaq,CMCSA,Comcast Cl A 8919181,42.00,-0.43
+Nasdaq,CRZO,Carrizo Oil&Gas 8781764,13.85,1.93
+Nasdaq,FITB,Fifth Third Bancorp 8291886,27.56,0.06
+Nasdaq,IQ,iQIYI ADR 8261083,23.98,0.79
+Nasdaq,ROKU,Roku Cl A 7963589,58.20,1.52
+Nasdaq,NWL,Newell Brands 7827634,14.41,-0.74
+Nasdaq,CRON,Cronos Group 7345870,16.86,1.11
+Nasdaq,DBX,Dropbox 7327346,23.16,1.91
+Nasdaq,FOXA,Fox Cl A 7215084,37.70,-0.74
+Nasdaq,HBAN,Huntington Bancshares 6929213,13.64,0.03
+Nasdaq,EBAY,eBay 6694746,36.15,0.17
+Nasdaq,ON,ON Semiconductor 6563205,22.46,-0.16
+Nasdaq,BBBY,Bed Bath&Beyond 6533758,16.72,-0.69
+Nasdaq,NVDA,NVIDIA 6487004,188.47,2.17
+Nasdaq,TLT,iShares 20+ Year Treasury Bond ETF 6220549,122.31,-0.59
+Nasdaq,PYPL,PayPal Holdings 6193904,106.81,-0.55
+Nasdaq,SHY,iShares 1-3 Year Treasury Bond ETF 6156360,83.90,0.01
+Nasdaq,MDSO,Medidata Solutions 6019762,90.02,11.15
+Nasdaq,XOG,Extraction Oil&Gas 5870860,5.59,0.53
+Nasdaq,MBIO,Mustang Bio 5717593,6.28,0.64
+Nasdaq,OPK,OPKO Health 5654373,2.34,-0.06
+Nasdaq,ODP,Office Depot 5587169,2.36,-0.10
+Nasdaq,PTEN,Patterson-UTI Energy 5562623,16.16,0.78
+Nasdaq,SNH,Senior Housing Properties Trust 5539495,8.12,-0.03
+Nasdaq,AKRX,Akorn 5454489,2.99,0.22
+Nasdaq,LYFT,Lyft 5226330,60.94,2.58
+Nasdaq,CELG,Celgene 5158964,93.42,-0.34
+Nasdaq,ASNA,Ascena Retail Group 5124159,1.05,-0.09
+Nasdaq,ERIC,Telefon L.M. Ericsson ADR 4835809,10.13,0.02
+Nasdaq,AVEO,AVEO Pharmaceuticals 4832167,0.94,-0.07
+Nasdaq,SBUX,Starbucks 4793110,75.40,-0.66
+Nasdaq,VIAB,Viacom Cl B 4762976,29.02,-1.16
+Nasdaq,AKAO,Achaogen 4757156,0.15,-0.02
+Nasdaq,TIGR,Up Fintech Holding ADR 4623578,14.50,-1.02
+Nasdaq,IEI,iShares 3-7 Year Treasury Bond ETF 4583607,122.27,-0.06
+Nasdaq,WDC,Western Digital 4473641,54.21,-1.18
+Nasdaq,MDLZ,Mondelez International Cl A 4473553,50.18,0.09
+Nasdaq,WBA,Walgreens Boots Alliance 4433467,54.10,-0.53
+Nasdaq,STNE,StoneCo Cl A 4405172,25.92,-0.59
+Nasdaq,PDD,Pinduoduo ADR 4275789,24.00,0.45
+Nasdaq,AMAT,Applied Materials 4257248,43.79,-0.16
+Nasdaq,JBLU,JetBlue Airways 4230090,16.83,-0.13
+Nasdaq,IBB,iShares Nasdaq Biotechnology ETF 4222621,104.59,0.05
+Nasdaq,SESN,Sesen Bio 4183782,1.02,-0.16
+Nasdaq,ZYNE,Zynerba Pharmaceuticals 4173895,9.50,1.41
+Nasdaq,AMRN,Amarin ADR 4167346,18.15,0.09
+Nasdaq,YRIV,Yangtze River Port&Logistics 4123046,1.00,-0.13
+Nasdaq,MCHI,iShares MSCI China ETF 4082892,64.38,-0.51
+Nasdaq,PBCT,People's United Financial 4037024,16.64,-0.49
+Nasdaq,URBN,Urban Outfitters 4007055,29.08,-1.85
+Nasdaq,SCZ,iShares MSCI EAFE Small-Cap ETF 3812515,59.13,-0.05
+Nasdaq,ATVI,Activision Blizzard 3801206,45.34,0.03
+Nasdaq,RCII,Rent-A-Center 3768455,22.90,1.53
+Nasdaq,XON,Intrexon 3756279,4.15,0.04
+Nasdaq,FISV,Fiserv 3741053,85.73,0.67
+Nasdaq,DISCA,Discovery Series A 3736847,29.12,-1.01
+Nasdaq,STLD,Steel Dynamics 3735734,32.28,-1.68
+Nasdaq,AAL,American Airlines Group 3735560,33.48,-0.89
+Nasdaq,GPOR,Gulfport Energy 3711253,7.09,0.40
+Nasdaq,ISRG,Intuitive Surgical 3685492,491.06,-37.00
+Nasdaq,IEF,iShares 7-10 Year Treasury Bond ETF 3621854,105.17,-0.15
+Nasdaq,AMRS,Amyris 3607460,4.93,-0.09
+Nasdaq,FCEL,FuelCell Energy 3596221,0.23,0.01
+Nasdaq,GRPN,Groupon 3520303,3.40,-0.09
+Nasdaq,AABA,Altaba 3511600,75.37,-0.61
+Nasdaq,TXN,Texas Instruments 3387583,114.95,-0.56
+Nasdaq,PFF,iShares Preferred&Income Securities ETF 3371162,36.56,0.01
+Nasdaq,FTR,Frontier Communications 3298619,2.55,-0.01
+Nasdaq,SYMC,Symantec 3293070,24.26,-0.14
+Nasdaq,AMZN,Amazon.com 3289990,1887.31,25.62
+Nasdaq,STX,Seagate Technology 3212799,48.94,-1.56
+Nasdaq,ICON,Iconix Brand Group 3148678,2.38,0.49
+Nasdaq,CTRP,Ctrip.com International ADR 3110366,43.53,-0.90
+Nasdaq,EXEL,Exelixis 3106150,20.61,-0.29
