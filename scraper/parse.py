@@ -1,7 +1,6 @@
 from xml.dom.minidom import parse
 from sys import argv
 import mysql.connector
-#no module named mysql.connector
 
 
 
@@ -9,10 +8,8 @@ def traverse( cursor ):
     
     doc = parse( argv[1] ) 
     table = doc.getElementsByTagName( 'table' ) 
-    
-    #print( 'exchange,symbol,company,volume,price,change' )
     for tr in table[2].getElementsByTagName( 'tr' )[1:]:
-        ara=[] # fufu~
+        ara=[]
         for td in tr.getElementsByTagName( 'td' ): 
             for a in td.getElementsByTagName( 'a' ): 
                 for text in a.childNodes:

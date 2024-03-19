@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>HELP ME TOM CRUISE</title>
+    <title>Top 100 Stocks: </title>
 </head>
 <body>
 <table align="center" border="1">
