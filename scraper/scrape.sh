@@ -12,7 +12,7 @@ fi
 
 cvs="$d.csv"
 java -jar tagsoup-1.2.1.jar --files $filename
-python3 dommy.py "$d.xhtml" 
+python3 parse.py "$d.xhtml" 
 i=$(( i+1 ))
 sleep 1m
 done
